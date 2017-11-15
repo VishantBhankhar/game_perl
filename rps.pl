@@ -10,6 +10,7 @@ use File::HomeDir;
 my $count=0;
 my $mycnt=0;
 my $compcnt=0;
+print "THis is version 2..";
 print "ROCK PAPER SCISSOR\n\n";
 while($count<5)
 {
